@@ -27,3 +27,5 @@ Atte: *El loco, Raziel, zick, piensa, piensalibre.*
 ## [piensalibre](https://piensalibre.github.io/)
 
 ## [@piensalibre_mx](https://twitter.com/piensalibre_mx)
+
+![piensaLibreLogo](piensaLibreLogo.jpg)

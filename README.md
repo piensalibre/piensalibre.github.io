@@ -20,10 +20,6 @@ Atte: *El loco, Raziel, zick, piensa, piensalibre.*
 
 ## Repositorios
 
-* [introAlLenguajeC](https://github.com/piensalibre/introAlLenguajeC/)
-* [introAlLenguajeJava](https://github.com/piensalibre/introAlLenguajeJava/)
-* [introAlLenguajeJavaScript](https://github.com/piensalibre/introAlLenguajeJavaScript/)
-* [introAlLenguajeKotlin](https://github.com/piensalibre/introAlLenguajeKotlin/)
 * [introAlLenguajePython](https://github.com/piensalibre/introAlLenguajePython/)
 
 ***
